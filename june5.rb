@@ -19,6 +19,8 @@ car_model = ["Prius", "Model S"]
 
 p two_arguments(car_maker, car_model)
 
+#below is unfinished..getting error on line 37
+
 def print_100(x)
 	if x/3 === fixnum 
 		p "Fizz"
